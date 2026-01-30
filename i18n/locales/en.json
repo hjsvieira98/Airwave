@@ -1,0 +1,92 @@
+{
+  "tabs": {
+    "home": "Home",
+    "search": "Search",
+    "library": "Your Library",
+    "settings": "Settings"
+  },
+  "home": {
+    "goodMorning": "Good morning",
+    "goodAfternoon": "Good afternoon",
+    "goodEvening": "Good evening",
+    "madeForYou": "Made for you",
+    "jumpBackIn": "Jump back in",
+    "resume": "Resume",
+    "resumeLastStation": "Resume last station",
+    "tapToContinue": "Tap to continue",
+    "recentlyPlayed": "Recently played",
+    "topStations": "Popular stations",
+    "trending": "Trending",
+    "failedToLoad": "Failed to load stations"
+  },
+  "search": {
+    "searchPlaceholder": "What do you want to listen to?",
+    "filter": "Filter",
+    "genre": "Genre",
+    "country": "Country",
+    "language": "Language",
+    "clearFilters": "Clear filters",
+    "discoverTitle": "Browse all",
+    "discoverMessage": "Search by name or pick a genre, country, or language above.",
+    "noStationsTitle": "No stations found",
+    "noStationsMessage": "Try another search or filter."
+  },
+  "library": {
+    "favorites": "Liked stations",
+    "recentlyPlayed": "Recently played",
+    "playlists": "Playlists",
+    "emptyFavoritesTitle": "No liked stations yet",
+    "emptyFavoritesMessage": "Tap the heart on a station to add it here.",
+    "emptyPlaylistsTitle": "No playlists yet",
+    "emptyPlaylistsMessage": "Create a playlist to group your favourite stations.",
+    "emptyPlaylistTitle": "No stations in this playlist",
+    "emptyPlaylistMessage": "Add stations from the player or search.",
+    "createPlaylist": "Create playlist",
+    "playlistName": "Playlist name",
+    "addToPlaylist": "Add to playlist",
+    "remove": "Remove",
+    "deletePlaylist": "Delete playlist"
+  },
+  "player": {
+    "loading": "Loading station...",
+    "connecting": "Connecting to stream…",
+    "live": "LIVE",
+    "paused": "PAUSED",
+    "play": "Play",
+    "pause": "Pause",
+    "stop": "Stop",
+    "volume": "Volume",
+    "favorite": "Like",
+    "sleep": "Sleep timer",
+    "sleepTimer": "Sleep timer",
+    "sleepRemaining": "Sleep timer: {{time}}",
+    "cancel": "Cancel",
+    "close": "Close",
+    "missingStation": "Missing station",
+    "stationNotFound": "Station not found",
+    "addToQueue": "Add to queue",
+    "queue": "Queue",
+    "share": "Share",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "settings": {
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "language": "Language",
+    "data": "Data",
+    "clearCache": "Clear cache",
+    "clearCacheHint": "Top stations cache",
+    "about": "About",
+    "version": "Version",
+    "dataSource": "Data source",
+    "radioBrowserApi": "Radio Browser API"
+  },
+  "common": {
+    "retry": "Retry",
+    "live": "Live",
+    "cancel": "Cancel"
+  }
+}

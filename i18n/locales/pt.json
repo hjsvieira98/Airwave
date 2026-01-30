@@ -1,0 +1,92 @@
+{
+  "tabs": {
+    "home": "Início",
+    "search": "Pesquisar",
+    "library": "A tua biblioteca",
+    "settings": "Definições"
+  },
+  "home": {
+    "goodMorning": "Bom dia",
+    "goodAfternoon": "Boa tarde",
+    "goodEvening": "Boa noite",
+    "madeForYou": "Feito para ti",
+    "jumpBackIn": "Retoma onde paraste",
+    "resume": "Continuar",
+    "resumeLastStation": "Continuar última estação",
+    "tapToContinue": "Toque para continuar",
+    "recentlyPlayed": "Reproduzidos recentemente",
+    "topStations": "Estações populares",
+    "trending": "Em alta",
+    "failedToLoad": "Falha ao carregar estações"
+  },
+  "search": {
+    "searchPlaceholder": "O que queres ouvir?",
+    "filter": "Filtro",
+    "genre": "Género",
+    "country": "País",
+    "language": "Idioma",
+    "clearFilters": "Limpar filtros",
+    "discoverTitle": "Explorar tudo",
+    "discoverMessage": "Pesquise por nome ou escolha um género, país ou idioma acima.",
+    "noStationsTitle": "Nenhuma estação encontrada",
+    "noStationsMessage": "Tente outra pesquisa ou filtro."
+  },
+  "library": {
+    "favorites": "Estações gostadas",
+    "recentlyPlayed": "Reproduzidos recentemente",
+    "playlists": "Playlists",
+    "emptyFavoritesTitle": "Ainda sem estações gostadas",
+    "emptyFavoritesMessage": "Toca no coração numa estação para adicionar aqui.",
+    "emptyPlaylistsTitle": "Ainda sem playlists",
+    "emptyPlaylistsMessage": "Cria uma playlist para agrupar as tuas estações favoritas.",
+    "emptyPlaylistTitle": "Nenhuma estação nesta playlist",
+    "emptyPlaylistMessage": "Adiciona estações a partir do player ou pesquisa.",
+    "createPlaylist": "Criar playlist",
+    "playlistName": "Nome da playlist",
+    "addToPlaylist": "Adicionar à playlist",
+    "remove": "Remover",
+    "deletePlaylist": "Eliminar playlist"
+  },
+  "player": {
+    "loading": "A carregar estação...",
+    "connecting": "A ligar à emissão…",
+    "live": "AO VIVO",
+    "paused": "PAUSADO",
+    "play": "Reproduzir",
+    "pause": "Pausar",
+    "stop": "Parar",
+    "volume": "Volume",
+    "favorite": "Gostar",
+    "sleep": "Temporizador de sono",
+    "sleepTimer": "Temporizador de sono",
+    "sleepRemaining": "Temporizador: {{time}}",
+    "cancel": "Cancelar",
+    "close": "Fechar",
+    "missingStation": "Estação em falta",
+    "stationNotFound": "Estação não encontrada",
+    "addToQueue": "Adicionar à fila",
+    "queue": "Fila",
+    "share": "Partilhar",
+    "next": "Seguinte",
+    "previous": "Anterior"
+  },
+  "settings": {
+    "appearance": "Aparência",
+    "theme": "Tema",
+    "dark": "Escuro",
+    "light": "Claro",
+    "language": "Idioma",
+    "data": "Dados",
+    "clearCache": "Limpar cache",
+    "clearCacheHint": "Cache das estações em destaque",
+    "about": "Acerca",
+    "version": "Versão",
+    "dataSource": "Fonte de dados",
+    "radioBrowserApi": "Radio Browser API"
+  },
+  "common": {
+    "retry": "Tentar novamente",
+    "live": "Ao vivo",
+    "cancel": "Cancelar"
+  }
+}
